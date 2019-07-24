@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="SpringFrontEnd.war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/SpringFrontEnd_war</output-path>
+    <root id="root">
+      <element id="archive" name="SpringFrontEnd.war" />
+    </root>
+  </artifact>
+</component>
